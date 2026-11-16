@@ -1,0 +1,2 @@
+﻿SECRET_KEY = "p9X2kLm4Qv8RzT1wYb6NcD3sHj7FgA5e"
+DB_PASSWORD = "Sup3rS3cretPassw0rd!2026"

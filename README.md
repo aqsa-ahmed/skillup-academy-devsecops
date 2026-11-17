@@ -27,7 +27,6 @@ Host:    hardened Ubuntu server (SSH, firewall, updates, least privilege)
 
 ## 3. Host security controls (Ubuntu server)
 
-> Fill this table from your Task 1 hardening report. Keep only what you actually did.
 
 | Control | What was done | How to verify |
 |---|---|---|

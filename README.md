@@ -48,6 +48,8 @@ Workflow: `.github/workflows/security.yml`, runs on every `push` and `pull_reque
 
 ## 5. Vulnerability remediation
 
+![Passing pipeline](docs/actions-green.png)
+
 | # | Finding | Tool / ID | Before | After |
 |---|---|---|---|---|
 | 1 | SQL injection | Bandit B608 | Query built with string formatting | Parameterized query: `execute("... WHERE name = ?", (name,))` |

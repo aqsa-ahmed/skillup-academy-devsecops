@@ -1,2 +1,6 @@
-﻿SECRET_KEY = "p9X2kLm4Qv8RzT1wYb6NcD3sHj7FgA5e"
-DB_PASSWORD = "Sup3rS3cretPassw0rd!2026"
+import os
+
+# FIXED: secrets come from environment variables, never from source code
+SECRET_KEY = os.environ["SECRET_KEY"]
+DB_PASSWORD = os.environ["DB_PASSWORD"]
+DB_PATH = os.environ.get("DB_PATH", "students.db")

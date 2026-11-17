@@ -1,6 +1,6 @@
-# SkillUp Academy: Security Handover
+﻿# SkillUp Academy: Security Handover
 
-![Security Scan](https://github.com/<your-username>/skillup-academy-devsecops/actions/workflows/security.yml/badge.svg)
+![Security Scan](https://github.com/aqsa-ahmed/skillup-academy-devsecops/actions/workflows/security.yml/badge.svg)
 
 **Prepared by:** Aqsa Zubair  
 **For:** SkillUp Academy engineering team  
